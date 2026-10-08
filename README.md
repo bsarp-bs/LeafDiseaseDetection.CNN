@@ -94,7 +94,3 @@ This model can later be used for predictions or deployed in applications.
 
 PlantVillage Dataset
 https://www.kaggle.com/datasets/emmarex/plantdisease
-
-## 👨‍💻 Author
-
-Developed as part of a graduation project focused on applying deep learning techniques to agricultural disease detection.
